@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "5342430404",
+    "firebase_url": "https://ammar-whatsapp-clone.firebaseio.com",
+    "project_id": "ammar-whatsapp-clone",
+    "storage_bucket": "ammar-whatsapp-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5342430404:android:383487e6137a8ea6e4b591",
+        "android_client_info": {
+          "package_name": "com.blogspot.yourfavoritekaisar.wabaruammar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5342430404-hncaf7sukaqvnkljolm4bfkooqgbhiog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.yourfavoritekaisar.wabaruammar",
+            "certificate_hash": "d064001e414b389ae53a196b7b9c8cbf59d92124"
+          }
+        },
+        {
+          "client_id": "5342430404-gtr8207ubjutq3l1oaqf9vut17frp278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSFg6wWTqF_e5cViR9g0Ju0HgJjwu3vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5342430404-gtr8207ubjutq3l1oaqf9vut17frp278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5342430404:android:b2cce3ac585a382de4b591",
+        "android_client_info": {
+          "package_name": "com.blogspot.yourfavoritekaisar.whatsapp_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5342430404-1oioog7vdc6i3eu9fae5v8561kknkmc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.yourfavoritekaisar.whatsapp_clone",
+            "certificate_hash": "d064001e414b389ae53a196b7b9c8cbf59d92124"
+          }
+        },
+        {
+          "client_id": "5342430404-gtr8207ubjutq3l1oaqf9vut17frp278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSFg6wWTqF_e5cViR9g0Ju0HgJjwu3vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5342430404-gtr8207ubjutq3l1oaqf9vut17frp278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
